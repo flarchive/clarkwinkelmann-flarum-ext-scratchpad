@@ -1,0 +1,46 @@
+{
+    "name": "clarkwinkelmann/flarum-ext-scratchpad",
+    "description": "Easily test code on your development forum",
+    "keywords": [
+        "flarum",
+        "scratchpad"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0",
+        "guzzlehttp/guzzle": "^6.0||^7.0"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/clarkwinkelmann/flarum-ext-scratchpad/issues",
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-scratchpad",
+        "forum": "https://discuss.flarum.org/d/23016"
+    },
+    "autoload": {
+        "psr-4": {
+            "ClarkWinkelmann\\Scratchpad\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Scratchpad",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-code",
+                "backgroundColor": "#684ba6",
+                "color": "#fff"
+            }
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/d/23016"
+        }
+    }
+}
