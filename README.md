@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-scratchpad.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-scratchpad) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-scratchpad).
 
-**0** versions archived · Latest: [`1.5.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^1.0`
+**10** versions archived · Latest: [`1.5.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2020-03-06 | `>=0.1.0-beta.12 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.0.0) |
+| `1.0.1` | 2020-03-20 | `>=0.1.0-beta.12 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.0.1) |
+| `1.0.2` | 2020-03-20 | `>=0.1.0-beta.12 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.0.2) |
+| `1.0.3` | 2020-05-06 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.0.3) |
+| `1.1.0` | 2020-05-08 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.1.0) |
+| `1.2.0` | 2020-11-03 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.2.0) |
+| `1.3.0` | 2020-12-21 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.3.0) |
+| `1.4.0` | 2021-03-18 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.4.0) |
+| `1.5.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.5.0) |
+| `1.5.1` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-scratchpad/tree/archive/v1.5.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-scratchpad.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-scratchpad.json)
 
